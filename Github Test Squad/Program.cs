@@ -6,7 +6,7 @@ namespace Github_Test_Squad
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("myfunnyrabbit123");
         }
     }
 }
